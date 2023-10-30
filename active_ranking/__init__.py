@@ -1,0 +1,1 @@
+from active_ranking.base import ActiveApproach
